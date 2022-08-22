@@ -7,17 +7,17 @@
 */
 Console.Write("Введите число ");
 int number = Convert.ToInt32(Console.ReadLine());
-string a = "";
+string invnum = "";
 while (number > 0)
 {
-    a = a + Convert.ToString(number % 2);
+    invnum = invnum + Convert.ToString(number % 2);
     number = number / 2;
 }
-int len = a.Length;
-string [] arr = new string [len];
+int len = invnum.Length;
+string [] binum = new string [len];
 for (int i = 0; i < len; i++)
 {
-    arr [len-1-i] = a[i].ToString();
+    binum [len-1-i] = invnum[i].ToString();
 }
-Console.WriteLine($"В двоичной системе {String.Join("", arr)}");
+Console.WriteLine($"В двоичной системе {String.Join("", binum)}");
 
