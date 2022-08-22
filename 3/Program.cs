@@ -14,10 +14,12 @@ while (number > 0)
     number = number / 2;
 }
 int len = invnum.Length;
-string [] binum = new string [len];
+//string [] binum = new string [len];
+string bin = "";
 for (int i = 0; i < len; i++)
 {
-    binum [len-1-i] = invnum[i].ToString();
+   // binum [len-1-i] = invnum[i].ToString();
+   bin = bin + invnum[len - 1 - i].ToString();
 }
-Console.WriteLine($"В двоичной системе {String.Join("", binum)}");
-
+//Console.WriteLine($"В двоичной системе {String.Join("", binum)}");
+Console.WriteLine(bin);
