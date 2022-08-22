@@ -1,0 +1,15 @@
+Z:\homeworks\c#\DZ22082022\3\bin\Debug\net6.0\3.exe
+Z:\homeworks\c#\DZ22082022\3\bin\Debug\net6.0\3.deps.json
+Z:\homeworks\c#\DZ22082022\3\bin\Debug\net6.0\3.runtimeconfig.json
+Z:\homeworks\c#\DZ22082022\3\bin\Debug\net6.0\3.dll
+Z:\homeworks\c#\DZ22082022\3\bin\Debug\net6.0\3.pdb
+Z:\homeworks\c#\DZ22082022\3\obj\Debug\net6.0\3.csproj.AssemblyReference.cache
+Z:\homeworks\c#\DZ22082022\3\obj\Debug\net6.0\3.GeneratedMSBuildEditorConfig.editorconfig
+Z:\homeworks\c#\DZ22082022\3\obj\Debug\net6.0\3.AssemblyInfoInputs.cache
+Z:\homeworks\c#\DZ22082022\3\obj\Debug\net6.0\3.AssemblyInfo.cs
+Z:\homeworks\c#\DZ22082022\3\obj\Debug\net6.0\3.csproj.CoreCompileInputs.cache
+Z:\homeworks\c#\DZ22082022\3\obj\Debug\net6.0\3.dll
+Z:\homeworks\c#\DZ22082022\3\obj\Debug\net6.0\refint\3.dll
+Z:\homeworks\c#\DZ22082022\3\obj\Debug\net6.0\3.pdb
+Z:\homeworks\c#\DZ22082022\3\obj\Debug\net6.0\3.genruntimeconfig.cache
+Z:\homeworks\c#\DZ22082022\3\obj\Debug\net6.0\ref\3.dll
